@@ -15,7 +15,8 @@
 
 ```bash
 # Скачай и запусти
-python3 venvi.py```
+python3 venvi.py
+```
 
 ## Автор
 
